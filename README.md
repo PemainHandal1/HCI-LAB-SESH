@@ -64,8 +64,6 @@ The site is optimized for:
 - Tablet
 - Mobile
 
-> Responsive design is achieved using CSS Grid, Flexbox, and media queries. On small screens the boxes stack into one column, the photo moves below my name, and the side navigation becomes smaller.
-
 ## 🧪 How to Run Locally
 
 1. Open your code editor (e.g., Visual Studio Code).
