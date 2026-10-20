@@ -79,9 +79,9 @@ The site is optimized for:
 ## 📂 Folder Structure
 
 ```bash
-your-repository-name/
+HCI-LAB-SESH/
 │
-├── index.html     # the whole website (HTML, CSS, JavaScript, and my photo)
+├── index.html     
 └── README.md
 ```
 
