@@ -79,7 +79,8 @@ The site is optimized for:
 ```bash
 HCI-LAB-SESH/
 │
-├── index.html     
+├── index.html
+├── style.css   
 └── README.md
 ```
 
